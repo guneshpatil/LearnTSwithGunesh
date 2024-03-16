@@ -1,6 +1,8 @@
+// Specifying the type of a variable
 let adultAge: number = 18;
 let isAdult: boolean = false;
 
+// Functions
 function greetIfAdult(age: number) {
     if (decideAge(age)) {
         return `awesome! you have a lot of life experience!`
